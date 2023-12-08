@@ -6,7 +6,7 @@ All days will be pushed after the current day is over as to not spoil anyone.
 
 ## Days done
 
- - [ ] Day01
+ - [X] Day01
  - [ ] Day02
  - [ ] Day03
  - [ ] Day04
