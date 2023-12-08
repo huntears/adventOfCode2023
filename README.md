@@ -36,3 +36,8 @@ All days will be pushed after the current day is over as to not spoil anyone.
 
 It's like C but modern, and I really like C. Therefore it makes sense to try it
 out here.
+
+## Contributions
+
+This repo does not take any outside contributions. Please do not try to open a
+PR.
