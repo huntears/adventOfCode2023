@@ -1,4 +1,4 @@
-# Advent Of Code 2023
+# 🎄 Advent Of Code 2023 🎄
 
 This repo holds all my solutions written in zig for advent of code 2023.
 
