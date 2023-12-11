@@ -1,6 +1,6 @@
 # 🎄 Advent Of Code 2023 🎄
 
-This repo holds all my solutions written in zig for advent of code 2023.
+This repo holds all my solutions written in zig and python for advent of code 2023.
 
 All days will be pushed after the current day is over as to not spoil anyone.
 
@@ -14,9 +14,9 @@ All days will be pushed after the current day is over as to not spoil anyone.
  - [X] Day06
  - [ ] Day07
  - [ ] Day08
- - [ ] Day09
+ - [X] Day09
  - [ ] Day10
- - [ ] Day11
+ - [X] Day11
  - [ ] Day12
  - [ ] Day13
  - [ ] Day14
