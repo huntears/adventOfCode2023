@@ -9,7 +9,7 @@ All days will be pushed after the current day is over as to not spoil anyone.
  - [X] Day01
  - [ ] Day02
  - [ ] Day03
- - [ ] Day04
+ - [X] Day04
  - [X] Day05
  - [X] Day06
  - [ ] Day07
